@@ -12,7 +12,7 @@ You can check out about my scientific contributions at:
 
 Below, a resumeé of my publications list.
 
-### Publication List
+### Publications List
 
 - Dias, P. G. F., Silva, M. C., Rocha Filho, G. P., Vargas, P. A., Cota, L. P., & Pessin, G. (2021). Swarm Robotics: A Perspective on the Latest Reviewed Concepts and Applications. Sensors, 21(6), 2062.
 - Garrocho, C. T. B., Silva, M. C., Ferreira, C. M. S., da Cunha Cavalcanti, C. F. M., & Oliveira, R. A. R. (2020). Real-Time Systems Implications in the Blockchain-Based Vertical Integration of Industry 4.0. IEEE Annals of the History of Computing, 53(09), 46-55.

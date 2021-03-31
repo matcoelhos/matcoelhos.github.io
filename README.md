@@ -2,7 +2,7 @@
 
 ![Banner](images/banner.jpg)
 
-My name is Mateus Coelho Silva. Currently, I am a Ph.D. Student at the Federal University of Ouro Preto, Minas Gerais, Brazil. I have a bachelor's degree in Control and Automation Engineering from the Federal University of Minas Gerais, and a Master's Degree in Computer Science from the Federal University of Ouro Preto. I have also lived in Germany, where I learned the language, studied and was an intern at Fraunhofer IOF (Jena). I have worked as a Substitute Professor at the Federal Institute of Education, Science and Technology of Minas Gerais.
+My name is **Mateus Coelho Silva**. Currently, I am a Ph.D. Student at the Federal University of Ouro Preto, Minas Gerais, Brazil. I have a bachelor's degree in Control and Automation Engineering from the Federal University of Minas Gerais, and a Master's Degree in Computer Science from the Federal University of Ouro Preto. I have also lived in Germany, where I learned the language, studied and was an intern at Fraunhofer IOF (Jena). I have worked as a Substitute Professor at the Federal Institute of Education, Science and Technology of Minas Gerais.
 
 You can check out about my scientific contributions at:
 

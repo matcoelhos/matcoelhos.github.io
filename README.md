@@ -6,6 +6,8 @@ My name is **Mateus Coelho Silva**. Currently, I am a Ph.D. Student at the Feder
 
 You can check out about my scientific contributions at:
 
+- [Publons](https://publons.com/researcher/3047981/mateus-silva/)
+- [Orcid](https://orcid.org/0000-0003-3717-1906)
 - [ResearchGate](https://www.researchgate.net/profile/Mateus-Silva-19)
 - [Google Scholar](https://scholar.google.com/citations?user=aCVeTgQAAAAJ&hl=pt-BR)
 - [Lattes](http://lattes.cnpq.br/8847164671735636)
@@ -14,6 +16,12 @@ Below, a resumeé of my publications list.
 
 ### Publications List
 
+- Silva, M. C., Ribeiro, S. P., Bianchi, A. G. C., & Oliveira, R. A. R. (2021). An Improved Deep Learning Application for Leaf Shape Reconstruction and Damage Estimation.
+- Meira, N. F. D. C., Silva, M. C., Oliveira, R. A., Souza, A., D’Angelo, T., & Vieira, C. B. (2021). Edge Deep Learning Applied to Granulometric Analysis on Quasi-particles from the Hybrid Pelletized Sinter (HPS) Process.
+- Vitor, R. F., Keller, B. N., Barbosa, D. L., & Diniz, D. N. (2021). Synchronous and Asynchronous Requirements for Digital Twins Applications in Industry 4.0.
+- Silva, M. C., Oliveira, R. A., D’angelo, T., Garrocho, C. T., & Amorim, V. J. (2021). Faceshield HUD: Extended Usage of Wearable Computing on the COVID-19 Frontline.
+- Silva, M. C., da Silva, J. C. F., & Oliveira, R. A. R. (2021). IDiSSC: Edge-computing-based Intelligent Diagnosis Support System for Citrus Inspection.
+- Silva, M. C., Bianchi, A. G., Ribeiro, S. P., & Oliveira, R. A. (2021, March). Leaf shape reconstruction and damage estimation using a U-net-based conditional GAN. In Proceedings of the 36th Annual ACM Symposium on Applied Computing (pp. 1106-1109).
 - Dias, P. G. F., Silva, M. C., Rocha Filho, G. P., Vargas, P. A., Cota, L. P., & Pessin, G. (2021). Swarm Robotics: A Perspective on the Latest Reviewed Concepts and Applications. Sensors, 21(6), 2062.
 - Garrocho, C. T. B., Silva, M. C., Ferreira, C. M. S., da Cunha Cavalcanti, C. F. M., & Oliveira, R. A. R. (2020). Real-Time Systems Implications in the Blockchain-Based Vertical Integration of Industry 4.0. IEEE Annals of the History of Computing, 53(09), 46-55.
 - Silva, M. C., de Sousa, F. L. M., Barbosa, D. L. M., & Oliveira, R. A. R. (2020). Constraints and Challenges in Designing Applications for Industry 4.0: A Functional Approach. In ICEIS (1) (pp. 767-774).
